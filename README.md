@@ -1,10 +1,6 @@
-<!-- Animated Neon Cyberpunk Header -->
+<!-- Custom Banner -->
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:ff00cc&height=220&section=header&text=Nhlanhla%20(Angelo)%20Nkomo&fontSize=42&fontColor=00fff2&animation=fadeIn&fontAlignY=35&desc=Junior%20Data%20Analyst%20%7C%20Software%20Developer%20%F0%9F%87%BF%F0%9F%87%A6&descAlignY=55&descSize=18&descColor=ff00cc" alt="header" />
-</p>
-
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=00FFF2&center=true&vCenter=true&width=700&lines=Junior+Data+Analyst;Software+Developer;Python+%7C+SQL+%7C+Azure;Turning+Data+Into+Decisions;Always+Learning" alt="Typing SVG" />
+<img src="assets/banner.png" alt="Nhlanhla (Angelo) Nkomo - Junior Data Analyst & Software Developer" width="100%" />
 </p>
 
 <p align="center">
