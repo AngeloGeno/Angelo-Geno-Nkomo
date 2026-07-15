@@ -20,13 +20,12 @@ jobs:
       - name: Generate trophy.svg
         uses: Erik-Donath/github-profile-trophy@feature/generate-svg
         with:
+          token: ${{ secrets.GITHUB_TOKEN }}
           username: ${{ github.repository_owner }}
-          output_path: trophy.svg
+          file: trophy.svg
           theme: radical
-          row: "2"
-          column: "4"
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          max-cols: "4"
+          max-rows: "2"
 
       - name: Commit updated trophy.svg
         uses: stefanzweifel/git-auto-commit-action@v5
