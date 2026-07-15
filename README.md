@@ -88,8 +88,14 @@ I'm a **Junior Data Analyst** and **Software Developer** with a passion for solv
 
 ## 🏆 GitHub Trophies
 
+<!--
+  Self-hosted via .github/workflows/trophy.yml (Erik-Donath/github-profile-trophy).
+  This regenerates trophy.svg daily and on every push, so your trophies keep
+  working even if the free hosted Vercel service goes down or rate-limits you.
+  Run the workflow once manually from the Actions tab to generate it the first time.
+-->
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=AngeloGeno&theme=radical&no-frame=true&margin-w=10&row=2&column=4" />
+<img src="trophy.svg" alt="GitHub Trophies" />
 </p>
 
 ---
