@@ -104,7 +104,7 @@ I'm a **Junior Data Analyst** and **Software Developer** with a passion for solv
 
 - 💼 LinkedIn: [angelo-nkomo](https://www.linkedin.com/in/angelo-nkomo-b05543228/)
 - 📧 Email: nhlanhlankomo466@gmail.com
-- 🌐 Website: angelogeno.github.io/Angelo-Portfolio-Website
+- 🌐 Website: [angelogeno.github.io/Angelo-Portfolio-Website](https://angelogeno.github.io/Angelo-Portfolio-Website/)
 
 ---
 
